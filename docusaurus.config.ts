@@ -108,6 +108,7 @@ const config: Config = {
           title: '更多',
           items: [
             { label: '友链', position: 'right', to: 'friends' },
+            { label: 'RABlog', position: 'right', to: 'https://blog.ragroup.us.kg' },
             {
               html: `
                 <a href="https://docusaurus.io" target="_blank" rel="noreferrer noopener">
