@@ -123,7 +123,7 @@ const config: Config = {
         <p style="display: inline-flex; align-items: center;"><img style="height:20px;margin-right: 0.5rem;" src="/img/police.png" alt="police" height="20"/><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=${
           beian1.match(/\d+/)?.[0]
         }" >${beian1}</a></p>
-        <p>Copyright © 2020 - ${new Date().getFullYear()} kuizuo. | Built with Docusaurus.</p>
+        <p>Copyright © 2020 - ${new Date().getFullYear()} RAGroup. | Built with kuizuoDocusaurus.</p>
         `,
     },
     algolia: {
