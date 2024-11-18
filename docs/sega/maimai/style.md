@@ -1,5 +1,5 @@
 ---
-id: dmaimai-style
+id: maimai-style
 slug: /maimai-style
 title: 样式与页面
 authors: ragroup
