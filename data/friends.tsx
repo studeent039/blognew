@@ -9,7 +9,7 @@ export const Friends: Friend[] = [
     title: 'RAGroup',
     description: 'RAGroupBlog',
     website: 'https://blog.ragroup.us.kg/',
-    avatar: '/img/friend/ra.ico',
+    avatar: '/img/friend/zxuqian.png',
   },
   {
    // title: 'Jetzihan',
