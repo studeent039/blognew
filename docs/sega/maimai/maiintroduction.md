@@ -1,4 +1,5 @@
 ---
+id: maiintro
 slug: /maimai-intro
 title: maimai简介
 date: 2024-06-10
