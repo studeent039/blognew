@@ -1,6 +1,6 @@
 ---
-id: docusaurus-style
-slug: /docusaurus-style
+id: dmaimai-style
+slug: /maimai-style
 title: 样式与页面
 authors: ragroup
 ---
