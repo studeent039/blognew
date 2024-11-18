@@ -12,10 +12,10 @@ export const Friends: Friend[] = [
     avatar: '/img/friend/zxuqian.png',
   },
   {
-   // title: 'Jetzihan',
-   // description: 'A bug maker.',
-   // website: 'https://www.jet-lab.site/',
-   // avatar: '/img/friend/jetzihan.png',
+    title: 'Jetzihan',
+    description: 'A bug maker.',
+    website: 'https://www.jet-lab.site/',
+    avatar: '/img/friend/jetzihan.png',
   },
   {
     title: 'Pincman',
