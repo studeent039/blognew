@@ -320,6 +320,11 @@ const sidebars: SidebarsConfig = {
     'tools/vite-plugin',
     'tools/jetbrains-product-activation-method',
   ],
+  sega: [
+    'sega/introduction',
+    'sega/maimai/maiintro',
+    'sega/maimai/maimai-style',
+  ],
 }
 
 module.exports = sidebars
