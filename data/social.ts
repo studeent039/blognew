@@ -20,7 +20,7 @@ type SocialValue = {
 const social: Social = {
   github: 'https://github.com/ragroup01',
   x: 'https://twitter.com/kuizuo',
-  //juejin: 'https://juejin.cn/user/1565318510545901',
+  juejin: 'https://juejin.cn/user/1565318510545901',
   wx: 'https://img.kuizuo.cn/wechat.png',
   // qq: 'https://img.kuizuo.cn/qq.png',
   // zhihu: 'https://www.zhihu.com/people/kuizuo',
