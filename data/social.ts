@@ -20,7 +20,7 @@ type SocialValue = {
 const social: Social = {
   github: 'https://github.com/ragroup01',
   x: 'https://twitter.com/kuizuo',
-  juejin: 'https://juejin.cn/user/1565318510545901',
+  juejin: 'https://juejin.cn/user/2971308636770138',
   wx: 'https://img.kuizuo.cn/wechat.png',
   // qq: 'https://img.kuizuo.cn/qq.png',
   // zhihu: 'https://www.zhihu.com/people/kuizuo',
@@ -36,11 +36,11 @@ const socialSet: Record<keyof Social | 'rss', SocialValue> = {
     icon: 'ri:github-line',
     color: '#010409',
   },
- // juejin: {
-   // href: social.juejin,
-   // title: '掘金',
-   // icon: 'simple-icons:juejin',
-   // color: '#1E81FF',
+  juejin: {
+    href: social.juejin,
+    title: '掘金',
+    icon: 'simple-icons:juejin',
+    color: '#1E81FF',
   },
   x: {
     href: social.x,
