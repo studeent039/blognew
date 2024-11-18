@@ -321,7 +321,8 @@ const sidebars: SidebarsConfig = {
     'tools/jetbrains-product-activation-method',
   ],
   sega: [
-    'sega/introduction',
+    'sega/sega',
+    'sega/maimai/maiguides',
     'sega/maimai/maiintro',
     'sega/maimai/maimai-style',
   ],
