@@ -5,6 +5,7 @@ const SKILLS = [
   'javascript',
   'react',
   'vue',
+  'sega',
   'android',
   'html5',
   'css3',
