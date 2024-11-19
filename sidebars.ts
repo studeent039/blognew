@@ -324,6 +324,7 @@ const sidebars: SidebarsConfig = {
     'sega/sega',
     'sega/maimai/maiguides',
     'sega/maimai/maiintro',
+    'sega/maimai/maifinale',
     'sega/maimai/maimai-style',
   ],
 }
