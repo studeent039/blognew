@@ -64,6 +64,7 @@ const config: Config = {
             { label: '笔记', to: 'docs/skill' },
             { label: '工具推荐', to: 'docs/tools' },
             { label: 'ragroup', to: 'docs/ragroup' },
+            { label: 'sega', to: 'docs/sega' },
           ],
         },
         // {
