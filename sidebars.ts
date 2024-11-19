@@ -322,10 +322,19 @@ const sidebars: SidebarsConfig = {
   ],
   sega: [
     'sega/sega',
-    'sega/maimai/maiguides',
-    'sega/maimai/maiintro',
-    'sega/maimai/maifinale',
-    'sega/maimai/maimai-style',
+    {
+      label: 'maimai魔改',
+      type: 'category',
+      link: {
+        type: 'doc',
+        id: 'sega/maimai/maiguides',
+      },
+      sega: [
+       'sega/maimai/maiintro',
+       'sega/maimai/maifinale',
+       'sega/maimai/maimai-style',
+      ],
+    },
   ],
 }
 
