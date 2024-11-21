@@ -92,7 +92,6 @@ const config: Config = {
             { label: '关于我', to: '/about' },
             { label: 'GitHub', href: social.github.href },
             { label: 'Twitter', href: social.x.href },
-            { label: '掘金', href: social.juejin.href },
             { label: 'Discord', href: social.discord.href },
           ],
         },
@@ -104,6 +103,8 @@ const config: Config = {
             { label: 'api服务', to: 'https://api.kuizuo.cn' },
             { label: '便民服务', to: 'https://service.kuizuo.cn' },
             { label: '站点监控', to: 'https://uptime.kuizuo.cn' },
+            { label: 'RAGroupBlog', to: 'https://blog.ragroup.us.kg' },
+            { label: 'RALive', to: 'https://home.ragrouplive.us.kg' },
           ],
         },
         {
@@ -111,6 +112,7 @@ const config: Config = {
           items: [
             { label: '友链', position: 'right', to: 'friends' },
             { label: 'RABlog', position: 'right', to: 'https://blog.ragroup.us.kg' },
+            { label: 'RALive', position: 'right', to: 'https://home.ragrouplive.us.kg' },
             {
               html: `
                 <a href="https://docusaurus.io" target="_blank" rel="noreferrer noopener">
