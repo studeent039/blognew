@@ -270,8 +270,8 @@ const config: Config = {
       )
 
       const motto = `
-This Webisite Powered By Kz Blog.
-Written by Docusaurus, Coding with Love.
+This Webisite Powered By RAGroup.
+Written by Kz Blog Docusaurus, Coding with Love.
 --------
 Love what you do and do what you love.
 `
@@ -303,7 +303,16 @@ Love what you do and do what you love.
   ],
   i18n: {
     defaultLocale: 'zh-CN',
-    locales: ['zh-CN'],
+    locales: ['zh-CN', 'en'],
+    localeConfigs: {
+      en: {
+        htmlLang: 'en',
+      },
+      // You can omit a locale (e.g. fr) if you don't need to override the defaults
+      fa: {
+        direction: 'rtl',
+      },
+    },
   },
   onBrokenLinks: 'warn',
 }
