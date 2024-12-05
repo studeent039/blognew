@@ -9,7 +9,7 @@ const beian1 = '闽公网安备35021102000847号'
 
 const config: Config = {
   title: 'RAgroup',
-  url: 'https://blog4.ragroup.us.kg',
+  url: 'https://blog5.ragroup.us.kg',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'RA',
