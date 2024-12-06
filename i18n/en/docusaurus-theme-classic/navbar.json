@@ -15,17 +15,17 @@
     "message": "Links",
     "description": "Navbar item with label 导航"
   },
-  "item.label.项目": {
+  "item.label.項目": {
     "message": "Projects",
     "description": "Navbar item with label 项目"
   },
-  "item.label.友链": {
+  "item.label.友鏈": {
     "message": "Projects",
     "description": "Navbar item with label 项目"
   },
-  "item.label.关于": {
+  "item.label.關於": {
     "message": "About",
-    "description": "Navbar item with label 关于"
+    "description": "Navbar item with label 關於"
   },
   "item.label.更多": {
     "message": "More",
