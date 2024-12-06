@@ -83,7 +83,7 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: '学习',
+          title: '學習',
           items: [
             { label: '博客', to: 'blog' },
             { label: '归档', to: 'blog/archive' },
