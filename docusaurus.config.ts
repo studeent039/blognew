@@ -303,13 +303,16 @@ Love what you do and do what you love.
   ],
   i18n: {
     defaultLocale: 'zh-HK',
-    locales: ['zh-HK', 'en', 'zh-CN'],
+    locales: ['zh-HK', 'en', 'zh-CN', 'jp'],
     localeConfigs: {
       en: {
         htmlLang: 'en',
       },
       cn: {
         htmlLang: 'cn',
+      },
+      jp: {
+        htmlLang: 'jp',
       },
       // You can omit a locale (e.g. fr) if you don't need to override the defaults
       fa: {
