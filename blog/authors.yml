@@ -7,6 +7,9 @@ ragroup:
   socials:
     x: kuizuo
     github: kuizuo
+  page:
+    # Turns the feature on - route will be /authors/custom-author-url
+    permalink: '/ragroup'
 
 ralive:
   name: RAgroupLive/RALive
