@@ -380,6 +380,10 @@
     "message": "ライブエディター",
     "description": "The live editor label of the live codeblocks"
   },
+  "theme.navbar.更多.label": {
+    "message": "もっと見る",
+    "description": "The label for the 更多 switcher dropdown"
+  },
   "showcase.card.sourceLink": {
     "message": "ソースコード",
     "description": "The label for the source link of a showcase card"
