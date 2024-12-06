@@ -51,7 +51,7 @@
     "message": "アーカイブ",
     "description": "The label of footer link with label=归档 linking to /blog/archive"
   },
-  "link.item.label.友链": {
+  "link.item.label.友鏈": {
     "message": "友達URL",
     "description": "The label of footer link with label=友链 linking to /friends"
   }
