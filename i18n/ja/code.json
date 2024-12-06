@@ -234,7 +234,7 @@
     "description": "The label used to tell the user to check the latest version"
   },
   "theme.docs.versions.latestVersionLinkLabel": {
-    "message": "最新バージョン	",
+    "message": "最新バージョン",
     "description": "The label used for the latest version suggestion link label"
   },
   "theme.common.editThisPage": {
