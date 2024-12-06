@@ -15,6 +15,18 @@
     "message": "学习",
     "description": "Navbar item with label 学习"
   },
+  "item.label.關於": {
+    "message": "关于",
+    "description": "Navbar item with label 關於"
+  },
+    "item.label.項目": {
+    "message": "项目",
+    "description": "Navbar item with label 項目"
+  },
+    "item.label.友鏈": {
+    "message": "友链",
+    "description": "Navbar item with label 友鏈"
+  },
   "item.label.小工具": {
     "message": "小工具",
     "description": "Navbar item with label 小工具"
