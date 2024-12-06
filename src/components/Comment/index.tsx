@@ -12,7 +12,7 @@ const defaultConfig: Partial<GiscusProps> & { darkTheme: string } = {
   reactionsEnabled: '1',
   emitMetadata: '0',
   inputPosition: 'top',
-  lang: 'zh-CN',
+  lang: 'zh-HK',
   theme: 'light',
   darkTheme: 'dark_dimmed',
 }
