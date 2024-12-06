@@ -218,6 +218,11 @@ const config: Config = {
           { tagName: 'meta', name: 'theme-color', content: '#12affa' },
         ],
       },
+      '@docusaurus/plugin-google-gtag',
+      {
+        trackingID: 'G-S4SD5NXWXF',
+        anonymizeIP: true,
+      },
     ],
     [
       'vercel-analytics',
