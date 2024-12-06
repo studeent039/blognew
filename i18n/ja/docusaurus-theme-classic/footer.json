@@ -42,5 +42,13 @@
   "link.item.label.掘金": {
     "message": "中国掘金",
     "description": "The label of footer link with label=掘金 linking to https://juejin.cn/user/1565318510545901"
+  },
+  "link.item.label.归档": {
+    "message": "アーカイブ",
+    "description": "The label of footer link with label=归档 linking to /blog/archive"
+  },
+  "link.item.label.友链": {
+    "message": "友達URL",
+    "description": "The label of footer link with label=友链 linking to /friends"
   }
 }
