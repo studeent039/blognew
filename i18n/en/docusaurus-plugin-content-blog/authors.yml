@@ -3,3 +3,22 @@ ragroup:
   title: ts full stack / Student
   url: https://github.com/kuizuo
   image_url: /img/logo.webp
+  page:
+    # Turns the feature on - route will be /authors/custom-author-url
+    permalink: '/ragroup'
+
+ralive:
+  name: RAgroupLive/RALive
+  title: Docusaurus maintainer, This Week In React editor
+  url: https://home.ragrouplive.us.kg
+  image_url: https://github.com/slorber.png
+  page: true
+  description: >
+    A freelance React and React-Native developer near Paris and Docusaurus maintainer. Also runs ThisWeekInReact.com, a newsletter to stay updated with the React ecosystem.
+
+
+  socials:
+    x: sebastienlorber
+    linkedin: sebastienlorber
+    github: slorber
+    newsletter: https://thisweekinreact.com
