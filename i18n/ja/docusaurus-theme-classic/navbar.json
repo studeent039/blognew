@@ -15,9 +15,9 @@
     "message": "もっと見る",
     "description": "Navbar item with label 更多"
   },
-  "item.label.学习": {
+  "item.label.學習": {
     "message": "勉強",
-    "description": "Navbar item with label 学习"
+    "description": "Navbar item with label 學習"
   },
   "item.label.小工具": {
     "message": "ガジェット",
