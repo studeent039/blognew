@@ -1,10 +1,10 @@
 {
   "homepage.hero.greet": {
-    "message": "Hello! I'm ",
+    "message": "Hello! We are",
     "description": "hero greet"
   },
   "homepage.hero.name": {
-    "message": "Kuizuo",
+    "message": "RAGroup",
     "description": "hero name"
   },
   "homepage.hero.text": {
