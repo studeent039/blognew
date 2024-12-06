@@ -303,7 +303,7 @@ Love what you do and do what you love.
   ],
   i18n: {
     defaultLocale: 'zh-HK',
-    locales: ['zh-HK', 'en', 'zh-CN', 'jp'],
+    locales: ['zh-HK', 'en', 'zh-CN', 'ja'],
     localeConfigs: {
       en: {
         htmlLang: 'en',
@@ -311,8 +311,8 @@ Love what you do and do what you love.
       cn: {
         htmlLang: 'cn',
       },
-      jp: {
-        htmlLang: 'jp',
+      ja: {
+        htmlLang: 'ja',
       },
       // You can omit a locale (e.g. fr) if you don't need to override the defaults
       fa: {
