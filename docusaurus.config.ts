@@ -195,10 +195,6 @@ const config: Config = {
         sitemap: {
           priority: 0.5,
         },
-        gtag: {
-          trackingID: 'G-S4SD5NXWXF',
-          anonymizeIP: true,
-        },
         debug: process.env.NODE_ENV === 'development',
       } satisfies Preset.Options,
     ],
@@ -217,11 +213,6 @@ const config: Config = {
           { tagName: 'link', rel: 'manifest', href: '/manifest.json' },
           { tagName: 'meta', name: 'theme-color', content: '#12affa' },
         ],
-      },
-      '@docusaurus/plugin-google-gtag',
-      {
-        trackingID: 'G-S4SD5NXWXF',
-        anonymizeIP: true,
       },
     ],
     [
