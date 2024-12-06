@@ -7,6 +7,8 @@ import type { GiscusConfig } from './src/components/Comment'
 const beian = '闽ICP备2020017848号-2'
 const beian1 = '闽公网安备35021102000847号'
 
+async src="https://www.googletagmanager.com/gtag/js?id=G-K0J95K41BV
+
 const config: Config = {
   title: 'RAgroup',
   url: 'https://blog5.ragroup.us.kg',
@@ -326,6 +328,12 @@ Love what you do and do what you love.
       },
     },
   },
+   window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-K0J95K41BV');
+
   onBrokenLinks: 'warn',
 }
 
