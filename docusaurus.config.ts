@@ -58,10 +58,10 @@ const config: Config = {
           items: [
             { label: '博客', to: 'blog' },
             { label: '關於', to: 'about' },
+            { label: '友鏈', to: 'friends' },
           ],
         },
         { label: '項目', position: 'right', to: 'project' },
-        { label: '友鏈', position: 'right', to: 'friends' },
         {
           label: '更多',
           position: 'right',
