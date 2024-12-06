@@ -11,9 +11,9 @@
     "message": "归档",
     "description": "Navbar item with label 归档"
   },
-  "item.label.学习": {
+  "item.label.學習": {
     "message": "学习",
-    "description": "Navbar item with label 学习"
+    "description": "Navbar item with label 學習"
   },
   "item.label.關於": {
     "message": "关于",
