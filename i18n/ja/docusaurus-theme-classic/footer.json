@@ -11,7 +11,11 @@
     "message": "もっと見る",
     "description": "The title of the footer links column with title=更多 in the footer"
   },
-    "link.title.友情链接": {
+  "link.item.label.更多": {
+    "message": "もっと見る",
+    "description": "The title of the footer links column with title=更多 in the footer"
+  },
+  "link.title.友情链接": {
     "message": "フレンドリー URL",
     "description": "The title of the footer links column with title=友情链接 in the footer"
   },
