@@ -11,6 +11,10 @@
     "message": "アーカイブ",
     "description": "Navbar item with label 归档"
   },
+  "item.label.更多": {
+    "message": "もっと見る",
+    "description": "Navbar item with label 更多"
+  },
   "item.label.学习": {
     "message": "勉強",
     "description": "Navbar item with label 学习"
