@@ -302,8 +302,8 @@ Love what you do and do what you love.
     'https://cdn.jsdelivr.net/npm/misans@4.0.0/lib/Normal/MiSans-Semibold.min.css',
   ],
   i18n: {
-    defaultLocale: 'zh-CN',
-    locales: ['zh-CN', 'en'],
+    defaultLocale: 'zh-HK',
+    locales: ['zh-HK', 'en'],
     localeConfigs: {
       en: {
         htmlLang: 'en',
