@@ -53,9 +53,9 @@ const config: Config = {
       hideOnScroll: true,
       items: [
         { label: '博客', position: 'right', to: 'blog' },
-        { label: '项目', position: 'right', to: 'project' },
-        { label: '友链', position: 'right', to: 'friends' },
-        { label: '关于', position: 'right', to: 'about' },
+        { label: '項目', position: 'right', to: 'project' },
+        { label: '友鏈', position: 'right', to: 'friends' },
+        { label: '關於', position: 'right', to: 'about' },
         {
           label: '更多',
           position: 'right',
