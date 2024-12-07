@@ -13,11 +13,11 @@ import styles from './styles.module.css'
 
 const TITLE = translate({
   id: 'theme.project.title',
-  message: '项目',
+  message: '項目',
 })
 const DESCRIPTION = translate({
   id: 'theme.project.description',
-  message: '学而无用，不如学而用之。这里是我在技术领域中努力实践和应用的最佳证明。',
+  message: '學而無用，不如學而用。這裡是我在技術領域中努力實踐和應用的最佳證明。',
 })
 
 // const GITHUB_URL = 'https://github.com/kuizuo'
