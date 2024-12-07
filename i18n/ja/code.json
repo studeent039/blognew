@@ -20,6 +20,10 @@
     "message": "ここでは、さまざまなテクノロジー スタックで遭遇する問題と解決策を共有し、最新のテクノロジー スタックとそれを実際の開発に適用する方法を理解していただき、私の開発経験が皆さんのインスピレーションになれば幸いです。",
     "description": "hero text"
   },
+  "hompage.hero.introduce": {
+    "message": "私たちについて",
+    "description": "hero text"
+  },
   "homepage.hero.look": {
     "message": "{note}、{project}、{link}、および私の {idea} を閲覧してチェックしてください。",
     "description": "hero look"
