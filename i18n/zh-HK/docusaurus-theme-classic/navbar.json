@@ -1,0 +1,47 @@
+﻿{
+  "title": {
+    "message": "RAGroup",
+    "description": "The title in the navbar"
+  },
+  "item.label.標籤": {
+    "message": "標籤",
+    "description": "Navbar item with label 標籤"
+  },
+  "item.label.歸檔": {
+    "message": "歸檔",
+    "description": "Navbar item with label 歸檔"
+  },
+  "item.label.學習": {
+    "message": "學習",
+    "description": "Navbar item with label 學習"
+  },
+  "item.label.小工具": {
+    "message": "小工具",
+    "description": "Navbar item with label 小工具"
+  },
+  "item.label.實戰專案": {
+    "message": "實戰專案",
+    "description": "Navbar item with label 實戰專案"
+  },
+  "item.label.技術筆記": {
+    "message": "技術筆記",
+    "description": "Navbar item with label 技術筆記"
+  },
+  "item.label.網址導航": {
+    "message": "網址導航",
+    "description": "Navbar item with label 網址導航"
+  },
+  "item.label.JS代碼還原": {
+    "message": "JS代碼還原",
+    "description": "Navbar item with label JS代碼還原"
+  },
+  "item.label.CyberChef加密": {
+    "message": "CyberChef加密",
+    "description": "Navbar item with label CyberChef加密"
+  },
+  "item.label.網盤": {
+    "message": "網盤",
+    "description": "Navbar item with label 網盤"
+  }
+}
+
