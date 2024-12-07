@@ -8,11 +8,11 @@
   "playground.tryItButton": {
     "message": "Try it now!"
   },
-  "Hello! 我是": {
+  "你好! 我們是": {
     "message": "Hello! 私たちは",
     "description": "hero greet"
   },
-  "愧怍": {
+  "RAGroup": {
     "message": "RAGroupです",
     "description": "my name"
   },
