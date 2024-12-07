@@ -384,6 +384,9 @@
     "message": "もっと見る",
     "description": "The label for the 更多 switcher dropdown"
   },
+  "theme.project.title": {
+    "message": "プロジェクトショーケース"
+  },
   "showcase.card.sourceLink": {
     "message": "ソースコード",
     "description": "The label for the source link of a showcase card"
