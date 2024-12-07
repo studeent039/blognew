@@ -24,6 +24,10 @@
     "message": "私たちについて",
     "description": "hero text"
   },
+  "homepage.blog.title": {
+    "message": "最近のブログ",
+    "description": "blog text"
+  },
   "homepage.hero.look": {
     "message": "{note}、{project}、{link}、および私の {idea} を閲覧してチェックしてください。",
     "description": "hero look"
