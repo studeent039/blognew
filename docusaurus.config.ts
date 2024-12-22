@@ -139,8 +139,8 @@ const config: Config = {
     },
     algolia: {
       appId: 'PD63MTDZFM',
-      apiKey: 'c7f4c5bd37ca9eb58ee8a9092d89fa30',
-      indexName: 'kuizuo',
+      apiKey: '755e1f84e35d8ebe811d1002657f983c',
+      indexName: 'raweb',
     },
     prism: {
       theme: themes.oneLight,
