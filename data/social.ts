@@ -1,6 +1,7 @@
 export type Social = {
   github?: string
   x?: string
+  ragroup?: string
   juejin?: string
   qq?: string
   wx?: string
@@ -21,6 +22,7 @@ type SocialValue = {
 const social: Social = {
   github: 'https://github.com/ragroup01',
   x: 'https://twitter.com/kuizuo',
+  ragroup: 'https://discord.gg/M8cVcjDxkz',
   juejin: 'https://juejin.cn/user/2971308636770138',
   wx: 'https://img.kuizuo.cn/wechat.png',
   // qq: 'https://img.kuizuo.cn/qq.png',
@@ -50,6 +52,12 @@ const socialSet: Record<keyof Social | 'rss', SocialValue> = {
     title: 'X',
     icon: 'ri:twitter-x-line',
     color: '#000',
+  },
+   ragroup: {
+    href: social.ragroup,
+    title: '微信',
+    icon: 'ri:wechat-2-line',
+    color: '#07c160',
   },
   wx: {
     href: social.wx,
