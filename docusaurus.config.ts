@@ -139,7 +139,7 @@ const config: Config = {
     },
     algolia: {
       appId: 'PD63MTDZFM',
-      apiKey: '755e1f84e35d8ebe811d1002657f983c',
+      apiKey: '4ed5bfd39301dcabd34419f71db73968',
       indexName: 'blog5',
     },
     prism: {
