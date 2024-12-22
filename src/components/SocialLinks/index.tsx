@@ -8,6 +8,7 @@ export type Social = {
   github?: string
   twitter?: string
   juejin?: string
+  ragroup?: string
   csdn?: string
   qq?: string
   wx?: string
