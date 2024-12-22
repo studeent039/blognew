@@ -140,7 +140,7 @@ const config: Config = {
     algolia: {
       appId: 'PD63MTDZFM',
       apiKey: '755e1f84e35d8ebe811d1002657f983c',
-      indexName: 'raweb',
+      indexName: 'blog5',
     },
     prism: {
       theme: themes.oneLight,
