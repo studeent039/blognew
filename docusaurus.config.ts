@@ -195,6 +195,10 @@ const config: Config = {
         sitemap: {
           priority: 0.5,
         },
+        gtag: {
+          trackingID: 'G-QR187S85LG',
+          anonymizeIP: true,
+        },
         debug: process.env.NODE_ENV === 'development',
       } satisfies Preset.Options,
     ],
